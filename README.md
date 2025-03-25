@@ -9,6 +9,6 @@ Profile Display: The app displays the profile picture, username, bio, number of 
 Error Handling: If the entered username is not found or there is an error in fetching the data, an error message is displayed.
 Responsive Design: The app is designed to work well on both desktop and mobile devices.</h4>
 <h1>Technologies Used</h1>
-<h4>React.js
-GitHub API
+<h4>React.js<br>
+GitHub API<br>
 HTML/CSS</h4>
